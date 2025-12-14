@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Normal';
+    src: url('fonts/MarioWorldPixelColor-3zBwX.eot');
+    src: url('fonts/MarioWorldPixelColor-3zBwX.eot?#iefix') format('embedded-opentype'),
+         url('fonts/MarioWorldPixelColor-3zBwX.woff2') format('woff2'),
+         url('fonts/MarioWorldPixelColor-3zBwX.woff') format('woff'),
+         url('fonts/MarioWorldPixelColor-3zBwX.ttf')  format('truetype'),
+         url('fonts/MarioWorldPixelColor-3zBwX.svg#Normal') format('svg');
+}
